@@ -1,4 +1,3 @@
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/2552d9a2-ab18-4f30-a9e7-04040044cf1a" />Produit Sweat
 
 Ce projet est une simple page produit pour un e-commerce de sweat-shirt. La page permet aux utilisateurs de changer la couleur du produit en cliquant sur différents boutons de couleur. La page est conçue pour être responsive et conviviale.
 
